@@ -1,0 +1,34 @@
+* {
+    background-color: #E8EAEC;
+}
+
+body {
+    font-family:'Roboto', sans-serif;
+    color: #446177
+}
+
+.poem {
+    text-align: center;
+    margin: 100px;
+    font-style: italic;
+}
+
+b {
+    justify-content: center;
+}
+
+.tableau {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    border-color: black;
+    border: 2px;
+}
+th{
+    font-style: bold;
+}
+
+td {
+    border: 1px black;
+}
