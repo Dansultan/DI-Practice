@@ -1,0 +1,110 @@
+body {
+    text-align: center;
+}
+
+.box1 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box2 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box3 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box4 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box5 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box6 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box7 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+
+.box8 {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.boxA {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.boxB {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+    
+}
+
+.boxC {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.boxD {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    background-color: yellow;
+    margin: 10px;
+}
+
+
+.container2 {
+    display: flex;
+    margin-top: 100px;       
+}
+.bigcontainer {
+    display: flex;   
+}
