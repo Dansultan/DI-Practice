@@ -1,0 +1,44 @@
+* {
+    background-color: papayawhip;
+}
+
+body {
+    font-family:'Roboto', sans-serif;
+}
+
+h1 p {
+    margin: 40px;
+}
+
+#lightred {
+    border: 2px solid darksalmon;
+    color: darksalmon;
+    text-align: center;
+    margin: 30px;
+}
+
+table {
+    justify-content: center;
+    text-align: center;
+}
+
+.table1 {
+    border: 1px solid black;
+    
+}
+
+.table2 {
+    border: 1px solid black;
+    padding: 15px 15px;
+    margin: 50px;
+    margin-bottom: 30px;
+}
+
+.imgcontainer {
+    text-align: center;
+}
+
+img {
+    border: 10px solid rgb(255, 147, 85);
+    margin: 80;   
+}

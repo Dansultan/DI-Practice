@@ -1,0 +1,21 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 200;
+}
+
+
+.bold {
+    font-weight: 700;
+}
+
+.contact {
+    float: left;
+    width: 300px;
+    display: flex;
+    width: 30%;
+}
+
+.profile {
+    flex: 1;
+    
+}
