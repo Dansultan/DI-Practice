@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.blockquote {
+    margin-left: 10px;
+    border-left: 3px solid lightgray;
+    padding-left: 10px;
+
+}
+h1{ 
+    font-weight: 900;
+}
+
+h2{
+    font-weight: 600;
+}
+.col-3{
+    background-color: #E3E3E3;
+    border: 2px solid gray;
+    height: fit-content;
+    width: fit-content;
+    
+    padding: 5px
+}
+
+.img-container{
+   text-align: center;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
